@@ -1,2 +1,2 @@
 # ML Problem Solving
- A Machine learning algorithm implementation from scratch using python
+Machine learning algorithms implementation from scratch using python
