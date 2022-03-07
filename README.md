@@ -15,6 +15,6 @@
 # Table of Content
 
 ## 1. Mini-Batch Gradient Descent Implementation for Linear Regression:
-![Banner](https://github.com/khadija267/ML-Problem-Solving/tree/main/images/1.png)
+![alt text](https://github.com/khadija267/ML-Problem-Solving/blob/main/images/1.png?raw=true)
 
 
