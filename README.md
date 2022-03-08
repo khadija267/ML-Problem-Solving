@@ -16,5 +16,9 @@
 
 ## 1. Mini-Batch Gradient Descent Implementation for Linear Regression:
 ![alt text](https://github.com/khadija267/ML-Problem-Solving/blob/main/images/1.png?raw=true)
+## 2. Perceptron Algorithm as Logical Operations
+![alt text](https://i.ytimg.com/vi/7dvqfpXEjdg/maxresdefault.jpg)
+
+
 
 
