@@ -23,6 +23,7 @@ def perceptronStep(X, y, W, b, learn_rate = 0.01):
         if error==1:
             W[0]=W[0]+(learn_rate*X[i][0])
             W[1]=W[1]+(learn_rate*X[i][1])
+            b=b+learn_rate
         elif error==-1:
             W[0]=W[0]-(learn_rate*X[i][0])
             W[1]=W[1]-(learn_rate*X[i][1])
