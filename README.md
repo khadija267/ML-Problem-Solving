@@ -18,6 +18,9 @@
 ![alt text](https://github.com/khadija267/ML-Problem-Solving/blob/main/images/1.png?raw=true)
 ## 2. Perceptron Algorithm as Logical Operations
 ![alt text](https://eungbean.github.io/assets/blog/posts/2018/or-quiz.png)
+## 3. Perceptron Algorithm
+![alt text](https://github.com/khadija267/ML-Problem-Solving/blob/main/images/2.png?raw=true)
+
 
 
 
