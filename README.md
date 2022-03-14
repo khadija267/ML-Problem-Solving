@@ -12,13 +12,20 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 
 # Table of Content
+## 1. Bag of Words (BOW):
+Coverts a collection of documents to a matrix, with each document being a row and each word(token) being the column, and the corresponding (row,column) values being the frequency of occurrance of each word or token in that document.
+![alt text](https://github.com/khadija267/ML-Problem-Solving/blob/main/images/3.png?raw=true)
 
-## 1. Mini-Batch Gradient Descent Implementation for Linear Regression:
+## 2. Mini-Batch Gradient Descent Implementation for Linear Regression:
+An optimization algorithm used for computing the model parameters for algorithms like linear regression, logistic regression, neural networks.
 ![alt text](https://github.com/khadija267/ML-Problem-Solving/blob/main/images/1.png?raw=true)
-## 2. Perceptron Algorithm as Logical Operations
-![alt text](https://eungbean.github.io/assets/blog/posts/2018/or-quiz.png)
-## 3. Perceptron Algorithm
+
+## 3. Perceptron Algorithm:
+Binary classification machine learning algorithm that is the simplest type of neural network model.
 ![alt text](https://github.com/khadija267/ML-Problem-Solving/blob/main/images/2.png?raw=true)
+## 4. Perceptron Algorithm as Logical Operations:
+Use the perceptroin algorithms as AND,OR and Not logical operator.
+![alt text](https://eungbean.github.io/assets/blog/posts/2018/or-quiz.png)
 
 
 
