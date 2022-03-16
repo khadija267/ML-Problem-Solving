@@ -27,6 +27,8 @@ Binary classification machine learning algorithm that is the simplest type of ne
 Use the perceptroin algorithms as AND,OR and Not logical operator.<br>
 ![alt text](https://eungbean.github.io/assets/blog/posts/2018/or-quiz.png)
 
+## 5. Naive Bayes:
+Bayes Theorem is one of the earliest probabilistic inference algorithms. It was developed by Reverend Bayes (which he used to try and infer the existence of God.
 
 
 
