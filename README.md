@@ -29,7 +29,22 @@ Use the perceptroin algorithms as AND,OR and Not logical operator.<br>
 
 ## 5. Naive Bayes:
 Bayes Theorem is one of the earliest probabilistic inference algorithms. It was developed by Reverend Bayes (which he used to try and infer the existence of God.
+## 6. Metrics:
+Classifiction metrics implementation:
+ <ul>
+  <li>Accuracy</li>
+  <li>Precision</li>
+  <li>Recall</li>
+    <li>F1 score | F beta score</li>
+  <li>AUC and ROC curve</li>
+</ul> 
 
+Regression metrics implementation:
+ <ul>
+  <li>R-squared</li>
+  <li>Mean absolute error</li>
+  <li>Mean square error</li>
+</ul> 
 
 
 
