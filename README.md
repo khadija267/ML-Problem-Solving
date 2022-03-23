@@ -35,7 +35,7 @@ Classifiction metrics implementation:
   <li>Accuracy</li>
   <li>Precision</li>
   <li>Recall</li>
-    <li>F1 score | F beta score</li>
+    <li>F1 score</li>
   <li>AUC and ROC curve</li>
 </ul> 
 
